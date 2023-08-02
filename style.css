@@ -33,7 +33,7 @@ body {
   header{
     /*position: fixed;*/
     width: 800px;
-    border: solid 1px red;
+    /*border: solid 1px red;*/
   }
 
   header h1{
