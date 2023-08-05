@@ -31,8 +31,8 @@ body {
   }
 
   header{
-    background-color: #222222;
-    position: fixed;
+    /*background-color: #222222;
+    position: fixed;*/
     width: 800px;
     /*border: solid 1px red;*/
   }
